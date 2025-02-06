@@ -52,7 +52,7 @@ sudo smbpasswd -a <your-username>
 ```
 
 ## 🎥 **Watch the Setup Video**  
-📺 [🔗 YouTube Video](#) *(Replace with your actual video link)*  
+📺 [🔗 YouTube Video](https://www.youtube.com/watch?v=nRyPi9j9BCM&t=49s) 
 
 ## 🛠️ **Commands Used**  
 ```bash
